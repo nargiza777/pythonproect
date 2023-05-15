@@ -1,0 +1,6 @@
+fhandle = open('newfile.txt', 'a')
+fhandle.write("This is my first line in this file\n")
+fhandle.write("This is my 4 line in this file\n")
+fhandle.write("This is my 5 line in this file\n")
+fhandle.write("This is my 6 line in this file\n")
+fhandle.write("This is my 7 line in this file\n")
